@@ -3,9 +3,8 @@
 This class defines empty rectangle class
 """
 
+
 class Rectangle:
-    """
-    Empty representation of rectangle class
-    """
+    """Empty representation of rectangle class"""
     pass
 
